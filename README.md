@@ -1,2 +1,3 @@
 # hello-world
 This is my first visit to Github, but i hope i'll be here everyday.
+Im 25 years old with a bigt dream to make life better and much easier for the people who feel they want to do something, but not sure if it's worth it or if they can manage to 'follow' their dream...
